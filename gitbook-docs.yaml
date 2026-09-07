@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: RAZE | Livro de Regras 2026
+  structure:
+    - type: space
+      key: raze-regras
+      title: RAZE | Livro de Regras 2026
+      path: raze
+      default: true
+      content:
+        directory: ./
