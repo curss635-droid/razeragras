@@ -1,8 +1,8 @@
-# Copy bait
+# Cop bait
 
 ![Cover](../../../.gitbook/assets/mosaico_seasonn_06_completo.png)
 
-Copy Bait
+COP BAIT
 
 Regras: Proibido efetuar chamados para qualquer tipo de serviço, com a proposta de sequestrar, matar, roubar aqueles que estejam atendendo o chamado.<br>
 

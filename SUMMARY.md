@@ -13,7 +13,7 @@
     * [Regras Caixa Eletrônico (Caixinha)](regras-gerais/regras-de-acoes/acoes-livres-tipo-01/regras-caixa-eletronico-caixinha.md)
     * [Regras Caixa Registradora](regras-gerais/regras-de-acoes/acoes-livres-tipo-01/regras-caixa-registradora.md)
     * [Regras Corrida Ilegal](regras-gerais/regras-de-acoes/acoes-livres-tipo-01/regras-corrida-ilegal.md)
-    * [Copy bait](regras-gerais/regras-de-acoes/acoes-livres-tipo-01/regras-corrida-ilegal-1.md)
+    * [Cop bait](regras-gerais/regras-de-acoes/acoes-livres-tipo-01/regras-corrida-ilegal-1.md)
   * [AÇÕES LIVRES TIPO 02](regras-gerais/regras-de-acoes/acoes-livres-tipo-02.md)
     * [Regras Venda de Drogas](regras-gerais/regras-de-acoes/acoes-livres-tipo-02/regras-venda-de-drogas.md)
     * [Regras Furto de Veículos](regras-gerais/regras-de-acoes/acoes-livres-tipo-02/regras-furto-de-veiculos.md)
