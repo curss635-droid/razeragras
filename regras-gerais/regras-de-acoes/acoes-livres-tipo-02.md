@@ -1,16 +1,5 @@
 # AÇÕES LIVRES TIPO 02
 
-![Cover](../../assets/mosaico_seasonn_06_completo.png)
+![Cover](../../.gitbook/assets/mosaico_seasonn_06_completo.png)
 
-• As Ações Livres Tipo 02 não precisam ser marcadas e não exigem que a pessoa que a iniciar seja parte de uma organização criminosa (facção ou gueto).
-• As Ações Livres Tipo 02 permitem o uso de armas de fogo.
-  ◦ Caso a polícia identifique hostilidade, poderá abrir fogo para abater o(s) bandido(s).
-  ◦ Caso haja colisão com outros veículos durante a fuga limpa, a polícia poderá atirar SOMENTE nos pneus para que o carro perca estabilidade e pare.
-  ◦ Se durante a fuga houver atropelamento e/ou morte de algum cidadão por culpa do bandido, a polícia terá permissão para matar.
-• É permitido solicitar apoio (QRR) durante as Ações Livres Tipo 02.
-  ◦ Exceto se permitido pelas regras da ação específica.
-  ◦ Durante a fuga, é OBRIGATÓRIO tentar, ao máximo, escapar dos policiais.
-  ◦ Se for identificado que o player estava tentando fazer com que os policiais colidam com o veículo ou não esteja se esforçando para se livrar da ação, poderá se enquadrar no artigo 14, e sub artigos.
-  ◦ No caso de colisão acidental entre o veículo dos policiais e do(s) bandido(s), a ação deve continuar.
-  ◦ Caso o veículo quebre, capote ou fique sem gasolina, é possível continuar a fuga à pé.
-  ◦ Proibido dar voz de assalto em veículos blindados e atirar de dentro do mesmo. Caso isso aconteça mais de 3 vezes, estará sujeito à perda do veículo. O uso do blindado destina-se apenas à segurança e proteção. Procure utilizá-lo corretamente. Usar o blindado para bater em outros veículos também poderá resultar na sua perda. Evite problemas; sempre utilize o blindado de maneira correta. Quando em ação, procure sempre ficar na retaguarda.
+• As Ações Livres Tipo 02 não precisam ser marcadas e não exigem que a pessoa que a iniciar seja parte de uma organização criminosa (facção ou gueto). • As Ações Livres Tipo 02 permitem o uso de armas de fogo. ◦ Caso a polícia identifique hostilidade, poderá abrir fogo para abater o(s) bandido(s). ◦ Caso haja colisão com outros veículos durante a fuga limpa, a polícia poderá atirar SOMENTE nos pneus para que o carro perca estabilidade e pare. ◦ Se durante a fuga houver atropelamento e/ou morte de algum cidadão por culpa do bandido, a polícia terá permissão para matar. • É permitido solicitar apoio (QRR) durante as Ações Livres Tipo 02. ◦ Exceto se permitido pelas regras da ação específica. ◦ Durante a fuga, é OBRIGATÓRIO tentar, ao máximo, escapar dos policiais. ◦ Se for identificado que o player estava tentando fazer com que os policiais colidam com o veículo ou não esteja se esforçando para se livrar da ação, poderá se enquadrar no artigo 14, e sub artigos. ◦ No caso de colisão acidental entre o veículo dos policiais e do(s) bandido(s), a ação deve continuar. ◦ Caso o veículo quebre, capote ou fique sem gasolina, é possível continuar a fuga à pé. ◦ Proibido dar voz de assalto em veículos blindados e atirar de dentro do mesmo. Caso isso aconteça mais de 3 vezes, estará sujeito à perda do veículo. O uso do blindado destina-se apenas à segurança e proteção. Procure utilizá-lo corretamente. Usar o blindado para bater em outros veículos também poderá resultar na sua perda. Evite problemas; sempre utilize o blindado de maneira correta. Quando em ação, procure sempre ficar na retaguarda.

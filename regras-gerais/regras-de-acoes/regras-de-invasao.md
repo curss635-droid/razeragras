@@ -1,28 +1,17 @@
 # REGRAS DE INVASÃO
 
-![Cover](../../assets/mosaico_seasonn_06_completo.png)
+![Cover](../../.gitbook/assets/mosaico_seasonn_06_completo.png)
 
 Regras de invasão:
 
-• Para que uma facção possa invadir outra, ela deverá apresentar todas as provas e motivos (saber quem são, localização da base, ramo de atuação, quem é o líder e a razão da invasão) para a Cúpula, que procederá com a autorização, caso seja plausível.
-• **Caso uma ação de pista seja iniciada e algum membro fuja para o QG, a ação continuará normalmente, sem aviso prévio. Por isso, orientamos que os líderes instruam seus membros a não trazerem conflitos da pista para o QG, a fim de evitar invasões inesperadas.**
+• Para que uma facção possa invadir outra, ela deverá apresentar todas as provas e motivos (saber quem são, localização da base, ramo de atuação, quem é o líder e a razão da invasão) para a Cúpula, que procederá com a autorização, caso seja plausível. • **Caso uma ação de pista seja iniciada e algum membro fuja para o QG, a ação continuará normalmente, sem aviso prévio. Por isso, orientamos que os líderes instruam seus membros a não trazerem conflitos da pista para o QG, a fim de evitar invasões inesperadas.**
 
-• **Regras sobre invasões e solicitação de PD:**<br>Caso uma facção invada outra e membros sejam mortos no local, o líder da facção que foi invadida poderá recolher os corpos e solicitar o PD de até **2 integrantes** que participaram da ação.<br>**Exemplo:**<br>A facção X invade a facção Y. Durante a invasão, 5 membros da facção X morrem no local. A facção Y poderá recolher os corpos, gravar um vídeo de **até 5 minutos** mostrando os IDs dos mortos, e então solicitar o PD.<br>O pedido será analisado pela cúpula, que decidirá se o PD é viável ou não. O PD também pode ser convertido em pagamento com dinheiro ou itens, conforme definido pela cúpula.<br>**Importante:**<br>A facção que está invadindo (neste caso, a facção X) terá **até 10 minutos** para recuperar os corpos do local. Caso isso não aconteça dentro do prazo, a facção invadida poderá solicitar o PD dos membros mortos normalmente.
+• **Regras sobre invasões e solicitação de PD:**\
+Caso uma facção invada outra e membros sejam mortos no local, o líder da facção que foi invadida poderá recolher os corpos e solicitar o PD de até **2 integrantes** que participaram da ação.\
+**Exemplo:**\
+A facção X invade a facção Y. Durante a invasão, 5 membros da facção X morrem no local. A facção Y poderá recolher os corpos, gravar um vídeo de **até 5 minutos** mostrando os IDs dos mortos, e então solicitar o PD.\
+O pedido será analisado pela cúpula, que decidirá se o PD é viável ou não. O PD também pode ser convertido em pagamento com dinheiro ou itens, conforme definido pela cúpula.\
+**Importante:**\
+A facção que está invadindo (neste caso, a facção X) terá **até 10 minutos** para recuperar os corpos do local. Caso isso não aconteça dentro do prazo, a facção invadida poderá solicitar o PD dos membros mortos normalmente.
 
-• A organização criminosa que será invadida deverá ser avisada com pelo menos 24 horas de antecedência, para que possa se preparar.
-  ◦ A partir do momento do aviso, a facção que será invadida não poderá contratar membros nem realizar movimentações no(s) baú(s).
-• Durante a invasão, as organizações criminosas:
-  ◦ Poderão utilizar qualquer tipo de armamento.
-  ◦ Poderão utilizar blindados para posicionamento (no máximo 4 veículos para cada lado).
-  ◦ Poderão utilizar helicópteros com atiradores (no máximo 2 para cada lado).
-  ◦ Deverão estar devidamente trajadas com o uniforme/mochila de sua organização.
-• Caso a facção não tenha o contingente máximo necessário, ela poderá solicitar ao Gueto apadrinhado as quantidades necessárias até que o limite de 40 participantes seja atingido.
-  ◦ Na impossibilidade de a facção solicitar o contingente de um Gueto apadrinhado, ela deverá entrar em contato com a Cúpula para que seja designado por eles os membros que completarão o limite desta ação.
-  ◦ A cúpula poderá negar ajuda às facções, ou enviar uma quantidade inferior ao necessário para completar o limite de membros, caso em seu critério de análise, a facção não esteja cooperando ou agindo de acordo com o que se espera dentro da cidade.
-  ◦ Os membros que estiverem participando deverão estar com o mesmo uniforme da facção aliada.
-  ◦ A facção não poderá solicitar membros para esta ação de outras facções sem passar pela autorização da Cúpula.
-  ◦ Guerra entre facções declarada não concede autorização para invasão.
-• Ao término da invasão, a organização criminosa vencedora poderá saquear a organização criminosa perdedora.
-  ◦ No caso dos invasores ganharem, a facção invadida terá seu(s) baú(s) saqueado(s). O conteúdo do(s) baú(s) não poderá ser guardado nos veículos e a facção só poderá levar o que conseguir carregar, não podendo retornar caso ainda haja itens remanescentes.
-  ◦ A facção perdedora fica 24 horas impossibilitada de realizar rotas de farm, participar de ações, movimentar o baú, e realizar produções (craft).
-• A Polícia não poderá intervir nesta ação, devendo ignorar quaisquer disparos ou denúncias para esta ocorrência.
+• A organização criminosa que será invadida deverá ser avisada com pelo menos 24 horas de antecedência, para que possa se preparar. ◦ A partir do momento do aviso, a facção que será invadida não poderá contratar membros nem realizar movimentações no(s) baú(s). • Durante a invasão, as organizações criminosas: ◦ Poderão utilizar qualquer tipo de armamento. ◦ Poderão utilizar blindados para posicionamento (no máximo 4 veículos para cada lado). ◦ Poderão utilizar helicópteros com atiradores (no máximo 2 para cada lado). ◦ Deverão estar devidamente trajadas com o uniforme/mochila de sua organização. • Caso a facção não tenha o contingente máximo necessário, ela poderá solicitar ao Gueto apadrinhado as quantidades necessárias até que o limite de 40 participantes seja atingido. ◦ Na impossibilidade de a facção solicitar o contingente de um Gueto apadrinhado, ela deverá entrar em contato com a Cúpula para que seja designado por eles os membros que completarão o limite desta ação. ◦ A cúpula poderá negar ajuda às facções, ou enviar uma quantidade inferior ao necessário para completar o limite de membros, caso em seu critério de análise, a facção não esteja cooperando ou agindo de acordo com o que se espera dentro da cidade. ◦ Os membros que estiverem participando deverão estar com o mesmo uniforme da facção aliada. ◦ A facção não poderá solicitar membros para esta ação de outras facções sem passar pela autorização da Cúpula. ◦ Guerra entre facções declarada não concede autorização para invasão. • Ao término da invasão, a organização criminosa vencedora poderá saquear a organização criminosa perdedora. ◦ No caso dos invasores ganharem, a facção invadida terá seu(s) baú(s) saqueado(s). O conteúdo do(s) baú(s) não poderá ser guardado nos veículos e a facção só poderá levar o que conseguir carregar, não podendo retornar caso ainda haja itens remanescentes. ◦ A facção perdedora fica 24 horas impossibilitada de realizar rotas de farm, participar de ações, movimentar o baú, e realizar produções (craft). • A Polícia não poderá intervir nesta ação, devendo ignorar quaisquer disparos ou denúncias para esta ocorrência.

@@ -1,6 +1,6 @@
 # PIT BATE BATE
 
-![Cover](../assets/mosaico_seasonn_06_completo.png)
+![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
 
 ### USO INDEVIDO DE VEÍCULOS E REGRAS DE COLISÃO
 
@@ -14,10 +14,10 @@
 >
 > **PROIBIDO:** Utilizar veículos para bater intencionalmente em outros jogadores com o objetivo de:
 >
-> • Capotar veículos  
-> • Desequilibrar veículos  
-> • Danificar veículos  
-> • Ganhar vantagem em perseguições  
+> • Capotar veículos\
+> • Desequilibrar veículos\
+> • Danificar veículos\
+> • Ganhar vantagem em perseguições\
 > • Impedir fuga através de colisões abusivas
 
 Isso inclui situações onde o jogador joga o veículo propositalmente contra outro durante perseguições ou abordagens.
@@ -34,8 +34,8 @@ Isso inclui situações onde o jogador joga o veículo propositalmente contra ou
 
 Após identificar o jogador:
 
-• Grave provas da situação  
-• Abra uma denúncia na Ouvidoria MetaCity  
+• Grave provas da situação\
+• Abra uma denúncia na Ouvidoria MetaCity\
 • Aguarde a análise administrativa sobre possível uso de PIT ou VDM
 
 ### ANÁLISE E PUNIÇÕES
@@ -44,7 +44,7 @@ Após identificar o jogador:
 >
 > **PUNIÇÕES:** Toda situação será analisada pela equipe administrativa antes da aplicação definitiva da punição.
 
-• Práticas de PIT poderão resultar em advertência e banimento temporário  
+• Práticas de PIT poderão resultar em advertência e banimento temporário\
 • Casos reincidentes poderão receber punições mais severas
 
 ### RESPONSABILIDADE DE ORGANIZAÇÕES
@@ -53,7 +53,7 @@ Após identificar o jogador:
 >
 > **ORGANIZAÇÕES:** Caso o PIT seja realizado em massa, com participação ou ciência da liderança, o líder da organização também poderá ser responsabilizado.
 >
-> **Denúncias: **Situações envolvendo organizações legal/ilegal, basta abrir na categorias que se enquadra o seu suporte, contra PIT.
+> \*\*Denúncias: \*\*Situações envolvendo organizações legal/ilegal, basta abrir na categorias que se enquadra o seu suporte, contra PIT.
 
 Nessas situações, o líder poderá ser chamado para uma call de alinhamento com a Administração.
 

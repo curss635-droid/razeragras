@@ -1,6 +1,6 @@
 # REGRAS GERAIS
 
-![Cover](../assets/mosaico_seasonn_06_completo.png)
+![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
 
 ### Permanência no Discord
 
@@ -8,11 +8,9 @@ Ao possuir acesso liberado na cidade, o jogador deverá permanecer no Discord of
 
 Ao sair do Discord:
 
-• A Allowlist será removida automaticamente
-• O acesso ao servidor será perdido
-• Será necessário realizar nova liberação
+• A Allowlist será removida automaticamente • O acesso ao servidor será perdido • Será necessário realizar nova liberação
 
----
+***
 
 ### Conduta e Respeito
 
@@ -20,25 +18,19 @@ Todos os membros devem manter respeito dentro da comunidade.
 
 Não será permitido:
 
-• Ofensas
-• Ameaças
-• Toxicidade
-• Provocações excessivas
-• Linguagem agressiva
+• Ofensas • Ameaças • Toxicidade • Provocações excessivas • Linguagem agressiva
 
 As punições serão aplicadas conforme a gravidade da situação.
 
----
+***
 
 ### Uso dos Canais
 
 Cada canal do Discord possui sua finalidade específica.
 
-• Mensagens fora do local correto poderão ser apagadas
-• Solicitações em canais inadequados poderão ser ignoradas
-• Spam ou insistência poderá gerar punições
+• Mensagens fora do local correto poderão ser apagadas • Solicitações em canais inadequados poderão ser ignoradas • Spam ou insistência poderá gerar punições
 
----
+***
 
 ### Sistema de Denúncias
 
@@ -48,24 +40,21 @@ Toda denúncia deve conter provas claras da situação ocorrida.
 
 **Requisitos:**
 
-• Vídeo com até 2 minutos
-• Contexto compreensível
-• Relação direta com a denúncia
+• Vídeo com até 2 minutos • Contexto compreensível • Relação direta com a denúncia
 
 Vídeos poderão ser enviados com ou sem áudio.
 
----
+***
 
 #### **Análise de Denúncias**
 
 Durante a análise:
 
-• Todas as informações solicitadas deverão ser apresentadas
-• Todos os envolvidos deverão manter respeito
+• Todas as informações solicitadas deverão ser apresentadas • Todos os envolvidos deverão manter respeito
 
 Caso o denunciante esteja quebrando regras nas próprias provas, ele também poderá ser punido.
 
----
+***
 
 #### Prazo de Denúncia
 
@@ -75,39 +64,33 @@ Exceção:
 
 • Casos envolvendo cheats ou modificações ilegais
 
----
+***
 
 ### Nome do Personagem
 
 O personagem deverá possuir:
 
-• Nome
-• Sobrenome
+• Nome • Sobrenome
 
 Não será permitido:
 
-• Nomes ofensivos
-• Conteúdo sexual
-• Apologia criminosa
-• Palavras de baixo calão
+• Nomes ofensivos • Conteúdo sexual • Apologia criminosa • Palavras de baixo calão
 
 **O nome utilizado no Discord deverá ser o mesmo utilizado na cidade.**
 
----
+***
 
 ### Criação de Personagem
 
 **Ao criar um personagem:**
 
-• Defina personalidade e características
-• Mantenha coerência em suas ações
-• Escolha sua trajetória dentro do RP
+• Defina personalidade e características • Mantenha coerência em suas ações • Escolha sua trajetória dentro do RP
 
 **Não será permitido:**
 
 • Utilizar roupas íntimas ou inadequadas em locais públicos
 
----
+***
 
 ### Contato com a Prefeitura
 
@@ -115,22 +98,17 @@ A Prefeitura representa a administração dentro do RP.
 
 **A Staff deverá ser acionada apenas em casos de:**
 
-• Bugs
-• Problemas técnicos
-• Dúvidas importantes
-• Quebras graves de regras
+• Bugs • Problemas técnicos • Dúvidas importantes • Quebras graves de regras
 
----
+***
 
 ### Regra do Hospital
 
 **Após ser reanimado:**
 
-• O personagem deverá esquecer a situação anterior
-• Deverá interpretar os ferimentos
-• Deverá colaborar com médicos e autoridades
+• O personagem deverá esquecer a situação anterior • Deverá interpretar os ferimentos • Deverá colaborar com médicos e autoridades
 
----
+***
 
 ### **Saquear Corpo**
 
@@ -138,7 +116,7 @@ A Prefeitura representa a administração dentro do RP.
 
 Após a morte, entende-se que o personagem não possui mais controle sobre a situação.
 
----
+***
 
 ### **Gravidez**
 
@@ -146,28 +124,25 @@ Caso uma gestante seja morta intencionalmente, a situação poderá ser consider
 
 **A regra será válida apenas para:**
 
-• Gestantes com pré-natal iniciado
-• Gravidez visível
+• Gestantes com pré-natal iniciado • Gravidez visível
 
 **Caso participe voluntariamente de ações perigosas:**
 
 • Será considerado Anti-Amor à Vida
 
----
+***
 
 ### Evacuação em Trocação
 
 **Durante confrontos:**
 
-• Policiais poderão utilizar veículos próximos para evacuação
-• Civis poderão utilizar viaturas apenas para fuga imediata
+• Policiais poderão utilizar veículos próximos para evacuação • Civis poderão utilizar viaturas apenas para fuga imediata
 
 **Não será permitido:**
 
-• Patrulhamento em veículos civis
-• Uso de viaturas para atividades comuns
+• Patrulhamento em veículos civis • Uso de viaturas para atividades comuns
 
----
+***
 
 ### Modificações Proibidas
 
@@ -175,20 +150,13 @@ Caso uma gestante seja morta intencionalmente, a situação poderá ser consider
 
 **Exemplos:**
 
-• Sem água
-• Água transparente
-• Sem props
-• Sem moitas
-• Silent aim
-• No recoil
-• Rolamento rápido
-• Movimentação alterada
+• Sem água • Água transparente • Sem props • Sem moitas • Silent aim • No recoil • Rolamento rápido • Movimentação alterada
 
 **Caso exista suspeita:**
 
 • O jogador poderá ser solicitado para telagem
 
----
+***
 
 ### Punições por Citizen Modificado
 

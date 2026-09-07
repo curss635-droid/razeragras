@@ -1,6 +1,6 @@
 # REGRAS DE COBRANÇA
 
-![Cover](../../assets/mosaico_seasonn_06_completo.png)
+![Cover](../../.gitbook/assets/mosaico_seasonn_06_completo.png)
 
 ## Regras de cobrança:
 

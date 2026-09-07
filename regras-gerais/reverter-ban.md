@@ -1,6 +1,6 @@
 # REVERTER BAN
 
-![Cover](../assets/mosaico_seasonn_06_completo.png)
+![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
 
 Se você considerar sua punição injusta ou discordar dela, poderá solicitar a **reversão do banimento**. Para isso, apresente suas **contraprovas**.
 

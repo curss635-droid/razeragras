@@ -1,6 +1,6 @@
 # RAZE ROLEPLAY
 
-![Cover](assets/CONNECT-RAZE.png)
+![Cover](.gitbook/assets/CONNECT-RAZE.png)
 
 Aqui, você não entra apenas em uma cidade. Você faz parte de um universo onde cada escolha muda o rumo da sua história.
 
