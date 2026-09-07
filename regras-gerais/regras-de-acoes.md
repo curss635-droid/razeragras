@@ -4,7 +4,7 @@
 
 ### **Regras Básicas**
 
-• É proibido utilizar **comandos de animação ou binds** após o **FF da ação** ou após **2 disparos da polícia ou bandidos**. • É permitido **saquear pessoas abatidas** caso sejam encontradas desacordadas. • É permitido **desovar corpos** (transportar para outro local). • Caso o veículo seja **semi ou blindado**, ao receber voz de assalto ou sequestro é permitido **tentar fugir**.
+• É proibido utilizar **comandos de animação ou binds** após o **FF da ação** ou após **2 disparos da polícia ou bandidos**. • É permitido **saquear pessoas abatidas** (Só será permitido se estiver participando da ação.) caso sejam encontradas desacordadas. • É permitido **desovar corpos** (transportar para outro local). • Caso o veículo seja **semi ou blindado**, ao receber voz de assalto ou sequestro é permitido **tentar fugir**.
 
 ***
 
@@ -48,9 +48,9 @@ Se o reforço chegar e o membro já estiver rendido:
 
 ### **Ações Conjuntas**
 
-A ação conjunta **só será permitida se estiver descrita nas regras específicas da ação**.
+**EXTREMAMENTE PROIBIDO QUALQUER TIPO DE AÇÃO CONJUNTA.**
 
-Caso não esteja descrito, **a ação conjunta é proibida**.
+**OBS.:** Caso seja identificado qualquer envolvimento em uma ação conjunta, os envolvidos estarão sujeitos a **punições administrativas**, podendo, inclusive, ocorrer **PD do personagem.**
 
 ***
 
@@ -88,7 +88,7 @@ Em ações **não marcadas ou não blipadas**:
 
 ### **PvP na Cidade**
 
-Assaltos na cidade são **proibidos**.
+Assaltos na cidade apenas no Norte.
 
 Os locais de PvP são:
 
@@ -108,7 +108,7 @@ A polícia deve tentar **resolver solicitando rendição**.
 
 ### **Transferência de Dinheiro**
 
-É proibido exigir que um jogador **transfira dinheiro ou bens da conta pessoal**.
+É proibido exigir que um jogador **transfira dinheiro ou bens da conta pessoal**.&#x20;
 
 ***
 
