@@ -1,6 +1,6 @@
 # REGRAS DE CRIANÇA
 
-![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 > As regras abaixo têm como objetivo garantir uma interpretação coerente, segura e imersiva para personagens infantis dentro da cidade.
 

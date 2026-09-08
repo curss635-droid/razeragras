@@ -1,6 +1,6 @@
 # SAFEZONES
 
-![Cover](../../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 Áreas Safe-Zones são locais onde não é permitido roubar, assaltar, sequestrar ou matar. Apenas Furtos são permitidos.
 

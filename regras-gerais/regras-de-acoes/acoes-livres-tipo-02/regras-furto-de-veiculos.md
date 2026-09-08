@@ -1,6 +1,6 @@
 # Regras Furto de Veículos
 
-![Cover](../../../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 • Ação Furto de Veículos. Localização: Veículos que estejam estacionados sem seus donos.
 

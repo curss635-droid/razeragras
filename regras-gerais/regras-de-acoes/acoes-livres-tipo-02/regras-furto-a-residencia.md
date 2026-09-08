@@ -1,6 +1,6 @@
 # Regras Furto à Residência
 
-![Cover](../../../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 • Ação Furto à Residência. Localização: Porta de entrada de grande parte das casas presentes na cidade.
 

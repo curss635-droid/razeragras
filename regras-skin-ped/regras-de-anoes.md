@@ -1,6 +1,6 @@
 # REGRAS DE ANÕES
 
-![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 > O RP de anão deve ser interpretado de forma coerente, respeitando as limitações e características da skin, sem buscar vantagens indevidas ou prejudicar a experiência dos demais jogadores.
 

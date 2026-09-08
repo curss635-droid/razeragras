@@ -1,6 +1,6 @@
 # Fuga Limpa
 
-![Cover](../../../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 1. Em casos de capotamentos, manobras, saltos ou colisões no ar que causem o furo do pneu do veículo, é OBRIGATÓRIO parar imediatamente. Se for uma perseguição, ela poderá continuar com a fuga a pé. ( 4 pneu furado é obrigatório se entregar ). Se o cidadão descer do carro com as mãos para cima e depois atirar é considerado como RDM<br>
 2. Em situações de abordagem de rotina, só é permitido atirar na polícia após o início de uma fuga, para que a polícia esteja ciente de que a situação pode se tornar mais perigosa e não seja alvejada sem chance de reação. Observação: A fuga não consiste apenas em virar a esquina e se esconder, mas sim em uma tentativa de fuga adequada. Caso não haja bom senso, será estabelecido um tempo mínimo de fuga antes de atirar na polícia.

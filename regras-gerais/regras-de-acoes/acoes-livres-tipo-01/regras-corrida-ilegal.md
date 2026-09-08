@@ -1,6 +1,6 @@
 # Regras Corrida Ilegal
 
-![Cover](../../../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 • Ação Corrida Ilegal. Localização: Ao utilizar acessar o blip da corrida, o caminho será marcado automaticamente no GPS.
 

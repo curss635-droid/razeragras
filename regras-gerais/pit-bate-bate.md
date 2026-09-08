@@ -1,6 +1,6 @@
 # PIT BATE BATE
 
-![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 ### USO INDEVIDO DE VEÍCULOS E REGRAS DE COLISÃO
 

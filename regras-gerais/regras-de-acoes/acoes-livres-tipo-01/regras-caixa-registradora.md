@@ -1,6 +1,6 @@
 # Regras Caixa Registradora
 
-![Cover](../../../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 • Ação Caixa Registradora. Localização: No interior das lojas de conveniência da cidade.
 

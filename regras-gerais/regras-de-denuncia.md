@@ -1,6 +1,6 @@
 # REGRAS DE DENÚNCIA
 
-![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 ### **DENÚNCIAS QUE PRECISA TER MAIS DE 1 MINUTO:**
 

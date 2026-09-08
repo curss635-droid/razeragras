@@ -1,6 +1,6 @@
 # MULTICHAR
 
-![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 ### **REGRA DE MULTICHAR (MÚLTIPLOS PERSONAGENS)**
 

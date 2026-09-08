@@ -1,6 +1,6 @@
 # REGRAS DE GRAVIDEZ
 
-![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 > O sistema de gestação tem como objetivo proporcionar um RP imersivo, responsável e coerente, garantindo o acompanhamento médico adequado durante todas as etapas da gravidez.
 

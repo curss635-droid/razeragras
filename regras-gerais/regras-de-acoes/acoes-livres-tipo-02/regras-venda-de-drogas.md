@@ -1,6 +1,6 @@
 # Regras Venda de Drogas
 
-![Cover](../../../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 • Ação Venda de Drogas. Localização: Ao utilizar o comando /drogas e selecionar a rota, o caminho será marcado automaticamente no GPS.
 

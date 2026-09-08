@@ -1,6 +1,6 @@
 # SISTEMA DE PUNIÇÃO FAC
 
-![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
+<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 > A Advertência de Facção (ADV) é uma punição administrativa aplicada quando uma organização apresenta comportamentos que prejudicam o Roleplay, o equilíbrio do servidor ou demonstra descumprimento recorrente das regras.
 
