@@ -1,6 +1,6 @@
 # Queima de Arquivos
 
-<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 QUEIMA DE ARQUIVO<br>
 

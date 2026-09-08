@@ -1,6 +1,6 @@
 # REGRAS DA POLÍCIA
 
-<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 **REGRAS DO ÓRGÃO DE SEGURANÇA PÚBLICA — POLÍCIA**
 

@@ -1,6 +1,6 @@
 # PTR
 
-<figure><img src="../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
 
 1.0 REGRAS DE PATRULHAMENTO
 
