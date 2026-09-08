@@ -14,12 +14,12 @@
 
 Quando houver quebra de regras o player será recluso dos demais, sendo enviado ao purgatório para que possa vir a repensar sobre seus atos. O purgatório é esse processo doloroso, um processo de reeducação, no qual o homem, purifica-se todos os seus maus hábitos adquiridos ao longo da vida.
 
-1. **1\*\*\*\*ª** **Punição** • _24hrs de purgatório;_
-2. **2ª Punição** • _48hrs de purgatório;_
-3. \*\*3\*\*\*\*ª \*\***Punição** • _72hrs de purgatório;_
-4. **4ª Punição** • _120hrs de purgatório;_
-5. **5ª Punição** • _168hrs de purgatório;_
-6. **6ª Punição** • _360hrs de purgatório;_
+1. **1\*\*\*\*ª** **Punição** • &#x33;_&#x68;rs de purgatório;_
+2. **2ª Punição** • &#x36;_&#x68;rs de purgatório;_
+3. \*\*3\*\*\*\*ª \*\***Punição** • 1&#x32;_&#x68;rs de purgatório;_
+4. **4ª Punição** • 2&#x34;_&#x68;rs de purgatório;_
+
+
 
 ***
 

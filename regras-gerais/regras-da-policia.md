@@ -9,10 +9,10 @@
 • Fugir é permitido, desde que feito de forma realista, sem forçar situações.\
 • O RP entre polícia e criminosos deve respeitar o realismo e bom senso.
 
-**SEQUESTRO DE POLICIAL**\
-• Somente é permitido com no mínimo 10 pessoas.\
-• Deve ocorrer fora da delegacia.\
-• Se ocorrer dentro da delegacia, será considerado ato terrorista. O policial pode abater o autor.
+**SEQUESTRO DE POLICIAL**
+
+1. É permitido sequestro de 1 policial com no mínimo 2 bandidos. Exemplo: 1 policial para 2 bandidos e 2 policiais para 4 bandidos Etc...\
+   •Deve ocorrer fora da delegacia.
 
 **POSSE DE ITENS APREENDIDOS**\
 • Todos os itens apreendidos são da Prefeitura.\
@@ -104,7 +104,7 @@ Caso ocorra o sequestro de um policial com o único objetivo de exigir dinheiro
 
 • Ação contínua para o QG/Favela:
 
-Após levar ação de rua para dentro do QG 2 vezes em um período de 48 horas, estará liberado o RO no QG, mediante análise e autorização da Staff.
+Após levar ação de rua para dentro do QG 2 vezes em um período de 48 horas, estará liberado o RO no QG, mediante análise e autorização do Comando Geral.
 
 • Viatura furtada levada para facção:
 

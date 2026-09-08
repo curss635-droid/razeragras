@@ -26,6 +26,8 @@
 * [REGRAS EMPREGOS LEGAIS](regras-gerais/regras-empregos-legais.md)
 * [REGRAS DE VAR](regras-gerais/regras-de-var.md)
 * [REGRAS DA POLÍCIA](regras-gerais/regras-da-policia.md)
+* [PTR](regras-gerais/regras-da-policia-1.md)
+* [Queima de Arquivos](regras-gerais/regras-da-policia-2.md)
 * [REGRAS DE DENÚNCIA](regras-gerais/regras-de-denuncia.md)
 * [SISTEMA DE PUNIÇÕES](regras-gerais/sistema-de-punicoes.md)
 * [TERMOS E CONDIÇÕES](regras-gerais/termos-e-condicoes.md)
