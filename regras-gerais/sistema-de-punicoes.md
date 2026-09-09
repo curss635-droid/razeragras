@@ -14,10 +14,16 @@
 
 Quando houver quebra de regras o player será recluso dos demais, sendo enviado ao purgatório para que possa vir a repensar sobre seus atos. O purgatório é esse processo doloroso, um processo de reeducação, no qual o homem, purifica-se todos os seus maus hábitos adquiridos ao longo da vida.
 
-1. **1\*\*\*\*ª** **Punição** • &#x33;_&#x68;rs de purgatório;_
-2. **2ª Punição** • &#x36;_&#x68;rs de purgatório;_
-3. \*\*3\*\*\*\*ª \*\***Punição** • 1&#x32;_&#x68;rs de purgatório;_
-4. **4ª Punição** • 2&#x34;_&#x68;rs de purgatório;_
+1 - 3 horas: 1 ADV\
+2 - 6 horas: 2 ADVs\
+3 - 12 horas: 3 ADVs\
+4 - 24 horas: 4 ADVs\
+5 - 48 horas: 5 ADVs\
+6 - ADV: já é BAN, e o player precisa comprar no site para poder voltar.
+
+DENÚNCIAS POR CL: 5 Horas\
+DENÚNCIAS POR PITT: 5 Horas\
+DENÚNCIAS DE RACISMO ATE WIPE!
 
 
 
