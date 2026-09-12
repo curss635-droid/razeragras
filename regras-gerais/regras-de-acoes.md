@@ -76,7 +76,13 @@ Durante ações em que a fuga é permitida, é liberado **Power Gaming com veíc
 
 Em ações **não marcadas ou não blipadas**:
 
-• bandidos abatidos podem ser levados ao hospital • após reanimados, a polícia pode continuar a prisão.
+**1. Reanimação:**\
+A reanimação de um jogador com o objetivo de realizar uma prisão **deverá obrigatoriamente ser feita utilizando um desfibrilador**. O policial terá o prazo máximo de **10 segundos** para utilizar o desfibrilador após a autorização/início da reanimação.
+
+**2. Proibição de encaminhamento ao hospital:**\
+Após a reanimação para fins de prisão, **é proibido encaminhar o jogador ao hospital (HP)**. O indivíduo deverá permanecer no local e seguir normalmente com o procedimento de prisão.
+
+**⚠️ O descumprimento desta regra poderá acarretar punições administrativas.**
 
 ***
 
