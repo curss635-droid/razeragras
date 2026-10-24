@@ -1,6 +1,6 @@
 # REGRAS ILEGAL
 
-![Cover](../.gitbook/assets/mosaico_seasonn_06_completo.png)
+![Cover](../.gitbook/assets/900a31de-4e5f-44b5-8cf0-989049f13b04.png)
 
 ## 🏴 Facções
 

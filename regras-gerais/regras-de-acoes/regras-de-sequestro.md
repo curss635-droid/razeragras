@@ -1,6 +1,6 @@
 # REGRAS DE SEQUESTRO
 
-<figure><img src="../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/900a31de-4e5f-44b5-8cf0-989049f13b04.png" alt=""><figcaption></figcaption></figure>
 
 **1 -** Em caso de negociação com a polícia, será permitido apenas a fuga limpa, garantindo ao criminoso o direito de escapar do local. Como o indivíduo já está cometendo um ato ilegal, terá uma única chance de fugir. Não será permitido exigir recompensa ou solicitar dinheiro em troca da liberação do refém.
 

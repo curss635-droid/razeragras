@@ -1,6 +1,6 @@
 # REGRAS DE COBRANÇA
 
-<figure><img src="../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/900a31de-4e5f-44b5-8cf0-989049f13b04.png" alt=""><figcaption></figcaption></figure>
 
 ## Regras de cobrança:
 

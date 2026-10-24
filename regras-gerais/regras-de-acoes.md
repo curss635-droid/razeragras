@@ -1,6 +1,6 @@
 # REGRAS DE AÇÕES
 
-<figure><img src="../.gitbook/assets/7ca435e2-08be-4d9a-8270-93acaf90a567.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/900a31de-4e5f-44b5-8cf0-989049f13b04.png" alt=""><figcaption></figcaption></figure>
 
 ### **Regras Básicas**
 

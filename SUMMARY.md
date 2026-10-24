@@ -1,6 +1,6 @@
 # Table of contents
 
-* [RAZE ROLEPLAY](README.md)
+* [WINX ROLEPLAY](README.md)
 
 ## REGRAS GERAIS
 
@@ -34,7 +34,6 @@
 * [TERMOS E CONDIÇÕES](regras-gerais/termos-e-condicoes.md)
   * [SAFEZONES](regras-gerais/termos-e-condicoes/safezones.md)
 * [PIT BATE BATE](regras-gerais/pit-bate-bate.md)
-* [REVERTER BAN](regras-gerais/reverter-ban.md)
 * [EMPREGOS SECUNDÁRIOS](regras-gerais/empregos-secundarios.md)
 * [VEÍCULOS VOADORES](regras-gerais/veiculos-voadores.md)
 * [MULTICHAR](regras-gerais/multichar.md)

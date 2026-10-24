@@ -1,6 +1,6 @@
 # AÇÕES LIVRES TIPO 01
 
-<figure><img src="../../.gitbook/assets/content ssss.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/900a31de-4e5f-44b5-8cf0-989049f13b04.png" alt=""><figcaption></figcaption></figure>
 
 1. As Ações Livres Tipo 01 não precisam ser marcadas e não exigem que a pessoa que a iniciar seja parte de uma organização criminosa (facção ou gueto).
 2. As Ações Livres Tipo 01 não podem ter o uso de NENHUMA arma de fogo, para realizar a FUGA LIMPA.
