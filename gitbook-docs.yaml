@@ -5,7 +5,7 @@ site:
     - type: space
       key: raze-regras
       title: WINX | Livro de Regras 2026
-      path: raze
+      path: winx
       default: true
       content:
         directory: ./
