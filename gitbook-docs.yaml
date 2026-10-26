@@ -4,8 +4,15 @@ site:
   structure:
     - type: space
       key: raze-regras
-      title: RAZE | Livro de Regras 2026
+      title: WINX | Livro de Regras 2026
       path: raze
       default: true
       content:
         directory: ./
+    - type: space
+      key: space-1
+      title: Imported content
+      path: imported-content
+      draft: true
+      content:
+        directory: ./imported-content
